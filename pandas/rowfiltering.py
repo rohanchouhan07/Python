@@ -9,15 +9,12 @@ Data={
 }
 
 df=pd.DataFrame(Data)
-# diaplay the datafram
-print(df)
+print(df ,"\n")
 
-print("\n")
+high_sal=df[df["Salary"] > 50000]
+print(high_sal,"\n")
+"\n"
+# filtering
 
-print("Sample dataset")
-Name=(df["Name"])
-print(Name)
-
-# selecting miltiple rows
-subset=df[["Name","Age"]]
-print(subset)
+filterd =df[(df["Age"] > 20) & (df["Salary"] > 50000)]
+print(filterd)

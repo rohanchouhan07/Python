@@ -7,17 +7,7 @@ Data={
     "Address":["Indore","Delhi","Kanpur","Dewas","Mumbai","Dhar","Ujjain","Bhopal","Delhi","Jabalpur"],
     "performance":[9,8.2,7.3,6.5,2.0,7.6,8,6.7,7.6,9.8]
 }
-
 df=pd.DataFrame(Data)
-# diaplay the datafram
+# print(df)
+df.drop(columns=["Salary","Age"],inplace=True)
 print(df)
-
-print("\n")
-
-print("Sample dataset")
-Name=(df["Name"])
-print(Name)
-
-# selecting miltiple rows
-subset=df[["Name","Age"]]
-print(subset)

@@ -1,0 +1,13 @@
+Nan=Not a number
+None=for object type data
+
+isnull()    return True or False
+true mean value missing
+False mean not missing
+
+after finding misiing value (delete the data or replace the data)
+
+delete the data 
+dropna(axis=0,inplace=True) 
+axis=0 react on row
+inplace=True affect the orignal data
