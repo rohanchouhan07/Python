@@ -17,5 +17,16 @@ Data={
     "performance":[9,8.2,7.3,6.5,2.0,7.6,8,6.5,7.6,9.8]
 }
 df=pd.DataFrame(Data)
-print(df)
+# print(df)
 print("\n \n")
+print(df.sum())
+print("\n \n")
+print(df.min())
+print("\n \n")
+print(df.max())
+print("\n \n")
+print(df.count())
+print("\n \n")
+print(df.mean())
+print("\n \n")
+print(df.std())
