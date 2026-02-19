@@ -1,0 +1,14 @@
+data manilation -
+INSERT into 
+UPDATE
+DELETE
+
+create tables-
+CREATE TABLE (TAbLE NAME)
+
+permission management-
+GRANT 
+REVOKE
+
+modifying tables
+ALTER TABLE

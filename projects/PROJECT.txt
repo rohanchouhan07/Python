@@ -1,0 +1,7 @@
+IBHWSS
+I=idea
+B=building the idea
+H=how program work
+W=what concept
+s=setps of pseudo code
+s=streting (how we streth the code)

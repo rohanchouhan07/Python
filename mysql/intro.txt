@@ -1,0 +1,28 @@
+data base => structured collection of data where we can -store -retrive and -manage 
+
+problem ->if we don't have contact app in our phone 
+
+need-> if we want to store something large which we not memorise 
+ 
+types of database
+1. relational database
+2. nosql database
+
+relational database
+sql language ex-mysql,postgreSQL,oracel
+
+{   name    std_id
+    rohan   101
+}
+sql(structured query language)
+
+
+No-SQL
+Like (unstructed data )->mongodb
+    RDBMS (relational database management system )
+    characterstics-
+        ~ open source
+        ~ speed and reliable
+        ~ free and open source 
+        ~ ease of learning
+

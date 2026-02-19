@@ -1,0 +1,7 @@
+show all the records -
+    select * from empl
+
+select specific - 
+filter filers -
+count records -
+calculate avrage -
