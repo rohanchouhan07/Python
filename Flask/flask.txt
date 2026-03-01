@@ -1,0 +1,35 @@
+web site = a web page open in our browser 
+
+web application - its a website but having more featues like (buttons ,home page,about,serach ,etc)
+
+backend--> hidden layer having batabase and storage of the application
+
+
+why need flask ?? 
+python don't know how to interact with web server ,web site web application 
+
+where flask is a ready made tool box with inbuild features
+
+
+three thing we have to don
+why ?
+how?
+what it do in our life?
+
+HTTP --> (hyper text transfer protocol) browser and server rules to understand each other
+HTTPS -->(hyper text transfer protocol security ) its a secure and encrypted web 
+
+request and response model--> its a user and web interactionn 
+where user send a request and server recieve the request then process then sends back the response
+
+status code 
+its a small code that shoes the interaction with website is happen or not 
+200 everything happen sucessfully
+404 page does'nt exitst
+500 internal server error
+301 moved parmanently (mean its on another url)
+403 forbidden (not allowed to you )
+
+URL(uniform resourse locator)
+web server a computer (which iis a server for a website on 24 x 7)
+
