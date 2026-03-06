@@ -3,8 +3,8 @@ from flask import Flask,render_template
 app=Flask(__name__)
 
 @app.route("/")
-def student():
-    return render_template("profile.html",
-                           name="rohan",
-                           is_topper=True,
-                           subject=["mahts","science","english"])
+def home():
+    return render_template("home.html")
+@app.route("/about")
+def home():
+    return render_template("about.html")
